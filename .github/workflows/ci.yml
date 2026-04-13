@@ -14,6 +14,6 @@ jobs:
         with:
           dotnet-version: '10.0.x'
       - name: Restaurar dependências
-        run: dotnet restore
+        run: dotnet restore ControleGastos/ControleGastos.sln
       - name: Rodar testes
-        run: dotnet test
+        run: dotnet test ControleGastos/ControleGastos.sln  

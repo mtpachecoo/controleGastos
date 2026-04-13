@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pacheco\\source\\repos\\ControleGastos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6757E82-610E-4722-93B6-B0302F1AA79D}|ControleGastos.Tests\\ControleGastos.Tests.csproj|c:\\users\\pacheco\\source\\repos\\controlegastos\\controlegastos.tests\\gerenciadorgastostests .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6757E82-610E-4722-93B6-B0302F1AA79D}|ControleGastos.Tests\\ControleGastos.Tests.csproj|solutionrelative:controlegastos.tests\\gerenciadorgastostests .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01065EBB-77AE-481D-9255-CC71AD1A814F}|ControleGastos\\ControleGastos.csproj|c:\\users\\pacheco\\source\\repos\\controlegastos\\controlegastos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01065EBB-77AE-481D-9255-CC71AD1A814F}|ControleGastos\\ControleGastos.csproj|solutionrelative:controlegastos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6757E82-610E-4722-93B6-B0302F1AA79D}|ControleGastos.Tests\\ControleGastos.Tests.csproj|c:\\users\\pacheco\\source\\repos\\controlegastos\\controlegastos.tests\\controlegastos.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E6757E82-610E-4722-93B6-B0302F1AA79D}|ControleGastos.Tests\\ControleGastos.Tests.csproj|solutionrelative:controlegastos.tests\\controlegastos.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01065EBB-77AE-481D-9255-CC71AD1A814F}|ControleGastos\\ControleGastos.csproj|c:\\users\\pacheco\\source\\repos\\controlegastos\\controlegastos\\entities\\gasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01065EBB-77AE-481D-9255-CC71AD1A814F}|ControleGastos\\ControleGastos.csproj|solutionrelative:controlegastos\\entities\\gasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01065EBB-77AE-481D-9255-CC71AD1A814F}|ControleGastos\\ControleGastos.csproj|c:\\users\\pacheco\\source\\repos\\controlegastos\\controlegastos\\entities\\gerenciadorgastos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01065EBB-77AE-481D-9255-CC71AD1A814F}|ControleGastos\\ControleGastos.csproj|solutionrelative:controlegastos\\entities\\gerenciadorgastos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01065EBB-77AE-481D-9255-CC71AD1A814F}|ControleGastos\\ControleGastos.csproj|c:\\users\\pacheco\\source\\repos\\controlegastos\\controlegastos\\controlegastos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{01065EBB-77AE-481D-9255-CC71AD1A814F}|ControleGastos\\ControleGastos.csproj|solutionrelative:controlegastos\\controlegastos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GerenciadorGastosTests .cs",
+              "DocumentMoniker": "C:\\Users\\Pacheco\\source\\repos\\ControleGastos\\ControleGastos.Tests\\GerenciadorGastosTests .cs",
+              "RelativeDocumentMoniker": "ControleGastos.Tests\\GerenciadorGastosTests .cs",
+              "ToolTip": "C:\\Users\\Pacheco\\source\\repos\\ControleGastos\\ControleGastos.Tests\\GerenciadorGastosTests .cs",
+              "RelativeToolTip": "ControleGastos.Tests\\GerenciadorGastosTests .cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T19:13:02.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ControleGastos.Tests",
+              "DocumentMoniker": "C:\\Users\\Pacheco\\source\\repos\\ControleGastos\\ControleGastos.Tests\\ControleGastos.Tests.csproj",
+              "RelativeDocumentMoniker": "ControleGastos.Tests\\ControleGastos.Tests.csproj",
+              "ToolTip": "C:\\Users\\Pacheco\\source\\repos\\ControleGastos\\ControleGastos.Tests\\ControleGastos.Tests.csproj",
+              "RelativeToolTip": "ControleGastos.Tests\\ControleGastos.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-13T01:37:58.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GerenciadorGastos.cs",
+              "DocumentMoniker": "C:\\Users\\Pacheco\\source\\repos\\ControleGastos\\ControleGastos\\Entities\\GerenciadorGastos.cs",
+              "RelativeDocumentMoniker": "ControleGastos\\Entities\\GerenciadorGastos.cs",
+              "ToolTip": "C:\\Users\\Pacheco\\source\\repos\\ControleGastos\\ControleGastos\\Entities\\GerenciadorGastos.cs",
+              "RelativeToolTip": "ControleGastos\\Entities\\GerenciadorGastos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T19:33:57.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Gasto.cs",
+              "DocumentMoniker": "C:\\Users\\Pacheco\\source\\repos\\ControleGastos\\ControleGastos\\Entities\\Gasto.cs",
+              "RelativeDocumentMoniker": "ControleGastos\\Entities\\Gasto.cs",
+              "ToolTip": "C:\\Users\\Pacheco\\source\\repos\\ControleGastos\\ControleGastos\\Entities\\Gasto.cs",
+              "RelativeToolTip": "ControleGastos\\Entities\\Gasto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T19:31:49.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ControleGastos",
+              "DocumentMoniker": "C:\\Users\\Pacheco\\source\\repos\\ControleGastos\\ControleGastos\\ControleGastos.csproj",
+              "RelativeDocumentMoniker": "ControleGastos\\ControleGastos.csproj",
+              "ToolTip": "C:\\Users\\Pacheco\\source\\repos\\ControleGastos\\ControleGastos\\ControleGastos.csproj",
+              "RelativeToolTip": "ControleGastos\\ControleGastos.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-12T19:18:03.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pacheco\\source\\repos\\ControleGastos\\ControleGastos\\Program.cs",
+              "RelativeDocumentMoniker": "ControleGastos\\Program.cs",
+              "ToolTip": "C:\\Users\\Pacheco\\source\\repos\\ControleGastos\\ControleGastos\\Program.cs",
+              "RelativeToolTip": "ControleGastos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T19:10:47.72Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

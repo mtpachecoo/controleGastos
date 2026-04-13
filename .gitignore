@@ -1,0 +1,40 @@
+# Binários e arquivos de build
+bin/
+obj/
+
+# Arquivos de configuração do usuário
+*.user
+*.suo
+*.cache
+
+# Logs
+*.log
+*.tmp
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Pacotes NuGet
+packages/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de teste
+TestResults/
+*.trx
+
+# Arquivos de publicação
+publish/
+
+# Arquivos de migração do Entity Framework (se aplicável)
+Migrations/*.cs
+
+# Outros
+*.exe
+*.dll
+*.pdb
